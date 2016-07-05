@@ -1,6 +1,6 @@
 {
   "name": "tmtheme-editor",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "private": true,
   "author": {
     "name": "Allen Bargi"
@@ -16,8 +16,8 @@
     "build": "`npm bin`/gulp"
   },
   "engines": {
-    "node": "0.12.x",
-    "npm": "2.10.x"
+    "node": "5.x.x",
+    "npm": "3.x.x"
   },
   "dependencies": {
     "body-parser": "1.13.1",
@@ -28,7 +28,7 @@
     "method-override": "2.3.3",
     "morgan": "1.6.0",
     "uglify-js": "2.4.23",
-    "bower": "1.4.1",
+    "bower": "1.7.7",
     "request": "2.58.0",
     "coffee-script": "1.9.3",
     "connect-assets": "4.7.1",
